@@ -1,5 +1,40 @@
 [ {
   "baseItem" : {
+    "id" : "_-weY8DeCEe-2doj2Hesgfg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_I80dsB8EEe-Dg9B40Dllcg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_dRgpcB8FEe-Dg9B40Dllcg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_I80dsB8EEe-Dg9B40Dllcg - XXCUST_GL_CONV_COA_HDR",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_I80dsB8EEe-Dg9B40Dllcg - XXCUST_GL_CONV_COA_STG",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dRgpcB8FEe-Dg9B40Dllcg - XXCUST_GL_CONV_COA_HDR",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dRgpcB8FEe-Dg9B40Dllcg - XXCUST_GL_CONV_COA_STG",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_ZlpqgCMdEe-eD8U7fOgiTg",
     "version" : "0.1",
     "type" : "job"
