@@ -1,0 +1,29 @@
+{
+  "itemId" : "_I80dsB8EEe-Dg9B40Dllcg",
+  "contextList" : [ {
+    "contextName" : "UAT",
+    "repoId" : "_zTehQB8EEe-Dg9B40Dllcg",
+    "parameterList" : [ {
+      "id" : "_zT-QgR8EEe-Dg9B40Dllcg",
+      "name" : "JKIINT_Password"
+    }, {
+      "id" : "_zT-Qgh8EEe-Dg9B40Dllcg",
+      "name" : "JKIINT_Port"
+    }, {
+      "id" : "_zT-Qgx8EEe-Dg9B40Dllcg",
+      "name" : "JKIINT_ServiceName"
+    }, {
+      "id" : "_zT-QhB8EEe-Dg9B40Dllcg",
+      "name" : "JKIINT_Schema"
+    }, {
+      "id" : "_zT-QhR8EEe-Dg9B40Dllcg",
+      "name" : "JKIINT_Server"
+    }, {
+      "id" : "_zT-Qhh8EEe-Dg9B40Dllcg",
+      "name" : "JKIINT_Login"
+    }, {
+      "id" : "_zT-Qhx8EEe-Dg9B40Dllcg",
+      "name" : "JKIINT_AdditionalParams"
+    } ]
+  } ]
+}

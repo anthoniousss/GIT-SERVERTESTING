@@ -1,1 +1,99 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_ZlpqgCMdEe-eD8U7fOgiTg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_zTehQB8EEe-Dg9B40Dllcg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "JKI_ERPDTALAKEDEV:_gM2dcCMcEe-eD8U7fOgiTg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_I80dsB8EEe-Dg9B40Dllcg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_gM2dcCMcEe-eD8U7fOgiTg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_I80dsB8EEe-Dg9B40Dllcg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_dRgpcB8FEe-Dg9B40Dllcg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_I80dsB8EEe-Dg9B40Dllcg - XXCUST_GL_CONV_COA_HDR",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_I80dsB8EEe-Dg9B40Dllcg - XXCUST_GL_CONV_COA_STG",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dRgpcB8FEe-Dg9B40Dllcg - XXCUST_GL_CONV_COA_HDR",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dRgpcB8FEe-Dg9B40Dllcg - XXCUST_GL_CONV_COA_STG",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
